@@ -1,0 +1,27 @@
+{
+  "name": "@dnyaneshwargiri/github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnyaneshwargiri/mongoose-crud.git"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "dnyaneshwar giri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnyaneshwargiri/mongoose-crud/issues"
+  },
+  "homepage": "https://github.com/dnyaneshwargiri/mongoose-crud#readme",
+  "dependencies": {
+    "mongoose": "^6.4.4",
+    "nodemon": "^2.0.19"
+  }
+}
